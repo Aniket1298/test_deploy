@@ -25,7 +25,7 @@ SECRET_KEY = 'lfx5@v3fnox54x^mpv3ghoky0ie^pwfj10ixl&9!ka)%_2fw(8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['obscure-sierra-81668.herokuapp.com']
 
 
 # Application definition
